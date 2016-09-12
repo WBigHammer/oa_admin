@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app_preset_prof_preset_name">MyTest Launch Configuration</entry>
+<entry key="app_preset_prof_preset_filter_s"/>
+<entry key="app_preset_prof_preset_filter_p">com.oa.commons.base.*,
+com.oa.commons.cache.*,
+com.oa.commons.config.*,
+com.oa.commons.converter.*,
+com.oa.commons.exception.*,
+com.oa.commons.filter.*,
+com.oa.commons.interceptor.*,
+com.oa.commons.job.*,
+com.oa.commons.listener.*,
+com.oa.commons.model.*,
+com.oa.commons.security.*,
+com.oa.commons.tag.*,
+com.oa.commons.util.*,
+com.oa.manager.administration.action.*,
+com.oa.manager.administration.bean.*,
+com.oa.manager.administration.service.*,
+com.oa.manager.base.action.*,
+com.oa.manager.common_platform.action.*,
+com.oa.manager.common_platform.bean.*,
+com.oa.manager.common_platform.service.*,
+com.oa.manager.coordination.action.*,
+com.oa.manager.coordination.bean.*,
+com.oa.manager.coordination.service.*,
+com.oa.manager.crm.client.action.*,
+com.oa.manager.crm.client.bean.*,
+com.oa.manager.crm.client.service.*,
+com.oa.manager.crm.sell.action.*,
+com.oa.manager.crm.sell.bean.*,
+com.oa.manager.crm.sell.service.*,
+com.oa.manager.files.action.*,
+com.oa.manager.files.bean.*,
+com.oa.manager.files.service.*,
+com.oa.manager.personalOffice.action.*,
+com.oa.manager.personalOffice.bean.*,
+com.oa.manager.personalOffice.service.*,
+com.oa.manager.personnel.action.*,
+com.oa.manager.personnel.bean.*,
+com.oa.manager.personnel.service.*,
+com.oa.manager.system.action.*,
+com.oa.manager.system.bean.*,
+com.oa.manager.system.service.*,
+com.oa.manager.vcms.action.*,
+com.oa.manager.vcms.bean.*,
+com.oa.manager.vcms.service.*,
+com.oa.manager.vcms.util.*,
+com.oa.manager.workFlow.action.*,
+com.oa.manager.workFlow.bean.*,
+com.oa.manager.workFlow.entity.*,
+com.oa.manager.workFlow.listener.execution.*,
+com.oa.manager.workFlow.listener.task.*,
+com.oa.manager.workFlow.service.*,
+com.oa.manager.workFlow.util.*,
+com.oa.test.*,
+com.vstartek.dm.cxf.*,
+com.vstartek.dm.mongo.model.*,
+com.vstartek.dm.util.*</entry>
+<entry key="app_preset_prof_preset_alloc_p">10</entry>
+<entry key="app_preset_"/>
+<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_stacks_p">false</entry>
+<entry key="app_preset_prof_preset_roots_p">com.oa.commons.base.**
+com.oa.commons.cache.**
+com.oa.commons.config.**
+com.oa.commons.converter.**
+com.oa.commons.exception.**
+com.oa.commons.filter.**
+com.oa.commons.interceptor.**
+com.oa.commons.job.**
+com.oa.commons.listener.**
+com.oa.commons.model.**
+com.oa.commons.security.**
+com.oa.commons.tag.**
+com.oa.commons.util.**
+com.oa.manager.administration.action.**
+com.oa.manager.administration.bean.**
+com.oa.manager.administration.service.**
+com.oa.manager.base.action.**
+com.oa.manager.common_platform.action.**
+com.oa.manager.common_platform.bean.**
+com.oa.manager.common_platform.service.**
+com.oa.manager.coordination.action.**
+com.oa.manager.coordination.bean.**
+com.oa.manager.coordination.service.**
+com.oa.manager.crm.client.action.**
+com.oa.manager.crm.client.bean.**
+com.oa.manager.crm.client.service.**
+com.oa.manager.crm.sell.action.**
+com.oa.manager.crm.sell.bean.**
+com.oa.manager.crm.sell.service.**
+com.oa.manager.files.action.**
+com.oa.manager.files.bean.**
+com.oa.manager.files.service.**
+com.oa.manager.personalOffice.action.**
+com.oa.manager.personalOffice.bean.**
+com.oa.manager.personalOffice.service.**
+com.oa.manager.personnel.action.**
+com.oa.manager.personnel.bean.**
+com.oa.manager.personnel.service.**
+com.oa.manager.system.action.**
+com.oa.manager.system.bean.**
+com.oa.manager.system.service.**
+com.oa.manager.vcms.action.**
+com.oa.manager.vcms.bean.**
+com.oa.manager.vcms.service.**
+com.oa.manager.vcms.util.**
+com.oa.manager.workFlow.action.**
+com.oa.manager.workFlow.bean.**
+com.oa.manager.workFlow.entity.**
+com.oa.manager.workFlow.listener.execution.**
+com.oa.manager.workFlow.listener.task.**
+com.oa.manager.workFlow.service.**
+com.oa.manager.workFlow.util.**
+com.oa.test.**
+com.vstartek.dm.cxf.**
+com.vstartek.dm.mongo.model.**
+com.vstartek.dm.util.**
+</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
+<entry key="app_preset_prof_preset_filterMode_s">true</entry>
+<entry key="app_preset_prof_preset_selector"/>
+<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_runnables_p">true</entry>
+<entry key="app_preset_prof_preset_filterMode_p">false</entry>
+<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
+</properties>

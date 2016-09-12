@@ -1,0 +1,5 @@
+1. jtoa改名之后第一版2014年4月2日21:09:55
+		修改路径名称及流程监听器修改
+2. 系统全局变量可以放在 servletContext中的属性中(如在线人员列表)		
+   servletContext.setAttribute("onLineUsers", usersMap);//放入全局保存
+3. BaseConfig加载配置文件信息	
